@@ -3,7 +3,7 @@ title: "Markdown styling"
 description: "Markdown post content stress test. See how your post content is being styled with Tailwind CSS."
 date: 2019-02-27 17:54:43
 author: Christian
-tags: ['design']
+tags: ['markdown', 'design']
 ---
 
 **Blog posts in Bleda are written using Markdown. However, you are free to use HTML inside Markdown, for any elements not covered by the spec.**
