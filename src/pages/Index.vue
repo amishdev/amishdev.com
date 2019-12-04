@@ -7,7 +7,7 @@
             <g-link to="/" class="text-black">amishDev</g-link>
           </h1>
           <p class="text-gray-700 text-lg sm:text-3xl">
-            crafting software.
+            A site about crafting software.
           </p>
         </div>
       </header>
@@ -80,6 +80,7 @@ export default {
           excerpt
           description
           path
+          cover
           tags {
             id
             title
