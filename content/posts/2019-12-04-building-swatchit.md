@@ -5,7 +5,7 @@ description: "This is a description of the post"
 date: 2019-12-04 13:59:57
 author: christian
 tags:
-    - font-end
+    - front-end
 cover: https://swatchit.io/images/swatchit-image.jpg
 fullscreen: true
 ---
